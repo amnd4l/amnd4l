@@ -109,7 +109,7 @@ Me chamo Amanda, sou analiste de dados e apaixonada por transformar dados em his
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnd4l&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
